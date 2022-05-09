@@ -31,7 +31,7 @@
     </a>
 </div>
 
-https://github.com/leobritodev/leobritodev/blob/output/github-contribution-grid-snake.svg
+
 
 
 <!--
