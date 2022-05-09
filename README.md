@@ -31,7 +31,7 @@
     </a>
 </div>
 
-![Snake animation](https://github.com/leobritodev/leobritodev/blob/output/github-contribution-grid-snake.svg)
+https://github.com/leobritodev/leobritodev/blob/output/github-contribution-grid-snake.svg
 
 
 <!--
