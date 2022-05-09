@@ -26,8 +26,8 @@
 
 <div>
     <a href="https://github.com/leobritodev">
-       <img height="175em" src="https://github-readme-stats.vercel.app/api?username=leobritodev&show_icons=true&theme=tokyonight"/>
-       <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobritodev&theme=tokyonight&layout=compact&langs_count=8"/>
+       <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leobritodev&show_icons=true&theme=tokyonight"/>
+       <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobritodev&theme=tokyonight&layout=compact&langs_count=8"/>
     </a>
 </div>
 
