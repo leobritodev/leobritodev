@@ -31,6 +31,9 @@
     </a>
 </div>
 
+![Snake animation](https://github.com/leobritodev/leobritodev/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **leobritodev/leobritodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
