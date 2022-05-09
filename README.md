@@ -29,9 +29,9 @@
        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leobritodev&show_icons=true&theme=tokyonight"/>
        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobritodev&theme=tokyonight&layout=compact&langs_count=8"/>
     </a>
+    
+    ![Snake animation](https://github.com/leobritodev/leobritodev/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-![Snake animation](https://github.com/leobritodev/leobritodev/blob/output/github-contribution-grid-snake.svg)
 
 
 
